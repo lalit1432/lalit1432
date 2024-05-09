@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalit Ahire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="1000" height = "300" src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_1280.jpg">
 
 
 
